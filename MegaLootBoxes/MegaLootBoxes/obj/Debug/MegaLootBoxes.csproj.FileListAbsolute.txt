@@ -1,7 +1,0 @@
-D:\SteamLibrary\steamapps\common\TerraTech Beta\QMods\MegaLootBoxes\mod.json
-D:\SteamLibrary\steamapps\common\TerraTech Beta\QMods\MegaLootBoxes\MegaLootBoxes.dll
-D:\SteamLibrary\steamapps\common\TerraTech Beta\QMods\MegaLootBoxes\MegaLootBoxes.pdb
-D:\prog\modding\tt\MegaLootBoxes\MegaLootBoxes\MegaLootBoxes\obj\Debug\MegaLootBoxes.csprojAssemblyReference.cache
-D:\prog\modding\tt\MegaLootBoxes\MegaLootBoxes\MegaLootBoxes\obj\Debug\MegaLootBoxes.csproj.CoreCompileInputs.cache
-D:\prog\modding\tt\MegaLootBoxes\MegaLootBoxes\MegaLootBoxes\obj\Debug\MegaLootBoxes.dll
-D:\prog\modding\tt\MegaLootBoxes\MegaLootBoxes\MegaLootBoxes\obj\Debug\MegaLootBoxes.pdb
