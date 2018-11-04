@@ -1,0 +1,10 @@
+﻿{
+  "Id": "net.killergodfisch.LoggingHelper",
+  "DisplayName": "LoggingHelper",
+  "Author": "KillerGoldFisch",
+  "Version": "0.0.1",
+  "Enable": true,
+  "AssemblyName": "LoggingHelper.dll",
+  "EntryMethod": "LoggingHelper.QMod.main",
+  "Priority": "First"
+}

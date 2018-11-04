@@ -1,0 +1,10 @@
+﻿{
+  "Id": "net.killergodfisch.MegaLootBoxes",
+  "DisplayName": "MegaLootBoxes",
+  "Author": "KillerGoldFisch",
+  "Version": "0.0.1",
+  "Enable": true,
+  "AssemblyName": "MegaLootBoxes.dll",
+  "EntryMethod": "MegaLootBoxes.QMod.main",
+  "Priority": "Last"
+}
