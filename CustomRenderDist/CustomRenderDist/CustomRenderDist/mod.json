@@ -1,0 +1,10 @@
+﻿{
+  "Id": "net.killergodfisch.CustomRenderDist",
+  "DisplayName": "CustomRenderDist",
+  "Author": "KillerGoldFisch",
+  "Version": "0.0.1",
+  "Enable": true,
+  "AssemblyName": "CustomRenderDist.dll",
+  "EntryMethod": "CustomRenderDist.QMod.main",
+  "Priority": "Last"
+}
